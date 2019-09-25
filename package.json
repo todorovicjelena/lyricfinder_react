@@ -1,5 +1,5 @@
 {
-  "name": "lyricFinder",
+  "name": "lyricfinder_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,14 +12,13 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.2"
   },
-  "homepage":"https://todorovicjelena.github.io/lyricFinder",
+  "homepage":"https://todorovicjelena.github.io/lyricfinder_react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
-   
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
