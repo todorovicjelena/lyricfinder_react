@@ -5,6 +5,7 @@
   "homepage": "https://todorovicjelena.github.io/lyricfinder_react/",
   "dependencies": {
     "axios": "^0.19.0",
+    "env-cmd": "^10.0.1",
     "gh-pages": "^2.1.1",
     "moment": "^2.24.0",
     "react": "^16.9.0",
@@ -18,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
+    "build:staging": "env-cmd -f .env.staging npm run build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
