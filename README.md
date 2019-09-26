@@ -1,4 +1,4 @@
-                  ![Screen Shot 2019-09-26 at 3 41 14 PM](https://user-images.githubusercontent.com/47742600/65693369-7aa56a80-e074-11e9-82dc-870772efd1a6.png)
+![Screen Shot 2019-09-26 at 3 41 14 PM](https://user-images.githubusercontent.com/47742600/65693369-7aa56a80-e074-11e9-82dc-870772efd1a6.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
